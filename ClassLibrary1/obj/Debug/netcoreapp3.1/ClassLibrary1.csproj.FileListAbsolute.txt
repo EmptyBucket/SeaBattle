@@ -1,7 +1,0 @@
-/mnt/media/RiderProjects/ConsoleApp11/ClassLibrary1/bin/Debug/netcoreapp3.1/ClassLibrary1.dll
-/mnt/media/RiderProjects/ConsoleApp11/ClassLibrary1/bin/Debug/netcoreapp3.1/ClassLibrary1.pdb
-/mnt/media/RiderProjects/ConsoleApp11/ClassLibrary1/obj/Debug/netcoreapp3.1/ClassLibrary1.csprojAssemblyReference.cache
-/mnt/media/RiderProjects/ConsoleApp11/ClassLibrary1/obj/Debug/netcoreapp3.1/ClassLibrary1.AssemblyInfoInputs.cache
-/mnt/media/RiderProjects/ConsoleApp11/ClassLibrary1/obj/Debug/netcoreapp3.1/ClassLibrary1.AssemblyInfo.cs
-/mnt/media/RiderProjects/ConsoleApp11/ClassLibrary1/obj/Debug/netcoreapp3.1/ClassLibrary1.dll
-/mnt/media/RiderProjects/ConsoleApp11/ClassLibrary1/obj/Debug/netcoreapp3.1/ClassLibrary1.pdb
