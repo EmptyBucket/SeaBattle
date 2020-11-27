@@ -16,11 +16,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {
-          "/mnt/media/RiderProjects/ConsoleApp11/ClassLibrary1/ClassLibrary1.csproj": {
-            "projectPath": "/mnt/media/RiderProjects/ConsoleApp11/ClassLibrary1/ClassLibrary1.csproj"
-          }
-        }
+        "projectReferences": {}
       }
     },
     "warningProperties": {

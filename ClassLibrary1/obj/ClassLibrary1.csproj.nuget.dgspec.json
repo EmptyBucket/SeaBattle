@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/media/RiderProjects/ConsoleApp11/ConsoleApp11/ConsoleApp11.csproj": {}
+    "/mnt/media/RiderProjects/ConsoleApp11/ClassLibrary1/ClassLibrary1.csproj": {}
   },
   "projects": {
-    "/mnt/media/RiderProjects/ConsoleApp11/ConsoleApp11/ConsoleApp11.csproj": {
+    "/mnt/media/RiderProjects/ConsoleApp11/ClassLibrary1/ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/media/RiderProjects/ConsoleApp11/ConsoleApp11/ConsoleApp11.csproj",
-        "projectName": "ConsoleApp11",
-        "projectPath": "/mnt/media/RiderProjects/ConsoleApp11/ConsoleApp11/ConsoleApp11.csproj",
+        "projectUniqueName": "/mnt/media/RiderProjects/ConsoleApp11/ClassLibrary1/ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "/mnt/media/RiderProjects/ConsoleApp11/ClassLibrary1/ClassLibrary1.csproj",
         "packagesPath": "/home/strix/.nuget/packages/",
-        "outputPath": "/mnt/media/RiderProjects/ConsoleApp11/ConsoleApp11/obj/",
+        "outputPath": "/mnt/media/RiderProjects/ConsoleApp11/ClassLibrary1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/strix/.nuget/NuGet/NuGet.Config"
