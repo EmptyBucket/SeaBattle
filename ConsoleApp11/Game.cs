@@ -26,7 +26,7 @@ namespace ConsoleApp11
 
 					if (enemy.Ships.All(s => s.IsDestroyed()))
 					{
-						Console.WriteLine($"{nameof(HumanPlayer)} with name {player.Name} win");
+						Console.WriteLine($"Player with name {player.Name} win");
 						return;
 					}
 				}
