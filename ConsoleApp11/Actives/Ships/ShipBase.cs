@@ -6,7 +6,10 @@ namespace ConsoleApp11.Actives.Ships
 
 		protected ShipBase(Point[] points) => Points = points;
 
-		public void Strike() => _countBroken++;
+		public void Strike()
+		{
+			if (_countBroken < Size) _countBroken++;
+		}
 
 		public bool IsDestroyed() => Size == _countBroken;
 
