@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/strix/.dotnet/store/|arch|/|tfm|",
+      "/home/strix/.nuget/packages"
+    ]
+  }
+}

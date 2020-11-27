@@ -1,0 +1,9 @@
+/mnt/media/RiderProjects/ConsoleApp11/ConsoleApp11/bin/Debug/netcoreapp3.1/ConsoleApp11
+/mnt/media/RiderProjects/ConsoleApp11/ConsoleApp11/bin/Debug/netcoreapp3.1/ConsoleApp11.dll
+/mnt/media/RiderProjects/ConsoleApp11/ConsoleApp11/bin/Debug/netcoreapp3.1/ConsoleApp11.pdb
+/mnt/media/RiderProjects/ConsoleApp11/ConsoleApp11/obj/Debug/netcoreapp3.1/ConsoleApp11.csprojAssemblyReference.cache
+/mnt/media/RiderProjects/ConsoleApp11/ConsoleApp11/obj/Debug/netcoreapp3.1/ConsoleApp11.AssemblyInfoInputs.cache
+/mnt/media/RiderProjects/ConsoleApp11/ConsoleApp11/obj/Debug/netcoreapp3.1/ConsoleApp11.AssemblyInfo.cs
+/mnt/media/RiderProjects/ConsoleApp11/ConsoleApp11/obj/Debug/netcoreapp3.1/ConsoleApp11.dll
+/mnt/media/RiderProjects/ConsoleApp11/ConsoleApp11/obj/Debug/netcoreapp3.1/ConsoleApp11.pdb
+/mnt/media/RiderProjects/ConsoleApp11/ConsoleApp11/bin/Debug/netcoreapp3.1/Ships.txt
